@@ -1,0 +1,7 @@
+name: Xani4kaAddonSlepota
+version: '${project.version}'
+main: org.xani4kaaddonslepota.Xani4kaAddonSlepota
+api-version: '1.16'
+depend: [WorldGuard]
+author: Xani4ka
+description: WorldGuard addon that adds blindness effect in regions
